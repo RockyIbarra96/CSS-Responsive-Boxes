@@ -1,3 +1,151 @@
-body {
-  background: papayawhip;
+@media (min-width: 425px) {
+
+  body {
+    background: papayawhip;
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .a {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 20vh;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+  }
+
+  .b {
+    display: flex;
+    justify-content: center;
+    width: 97vw;
+    height: 40vh;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+  }
+
+  .cde {
+    display: flex;
+    width: 100vw;
+    height: 20vh;
+    margin-bottom: 5px;
+  }
+
+  .c {
+    width: 31vw;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    border: 1px solid black;
+  }
+
+  .d {
+    width: 31vw;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    border: 1px solid black;
+  }
+
+  .e {
+    width: 31vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    border: 1px solid black;
+  }
+
+  .f {
+    display: flex;
+    justify-content: center;
+    width: 97vw;
+    height: 20vh;
+    text-align: center;
+    font-size: 100px;
+    border: 1px solid black;
+  }
+}
+
+@media (min-width: 1000px) {
+
+  body {
+    background: papayawhip;
+  }
+  
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .a {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 20vh;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+  .b-cde {
+    width: 60vw;
+    height: 60vh;
+    margin: 5px;
+  }
+
+  .b-cde-f {
+    display: flex;
+    width: 100vw;
+    height: 80vh;
+    margin: 5px;
+  }
+
+  .f {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 38vw;
+    height: 80vh;
+    margin: 5px;
+  }
+
+  .b {
+    border: 1px solid black;
+    width: 58vw;
+    height: 40vh;
+  }
+
+  .c {
+    border: 1px solid black;
+    width: 19vw;
+    height: 39vh;
+  }
+
+  .d {
+    border: 1px solid black;
+    width: 19vw;
+    height: 39vh;
+  }
+
+  .e {
+    border: 1px solid black;
+    width: 19vw;
+    height: 39vh;
+  }
 }
