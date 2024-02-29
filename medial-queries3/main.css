@@ -1,3 +1,234 @@
-body {
-  background: peachpuff;
+@media (min-width: 425px) {
+
+  body {
+    background: peachpuff;
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .a {
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 20vh;
+    margin: 5px;
+  }
+
+  .bcdefg {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .b {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+    height: 15vh;
+    margin: 5px;
+  }
+
+  .c {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+    height: 15vh;
+    margin: 5px;
+  }
+
+  .d {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+    height: 15vh;
+    margin: 5px;
+  }
+
+  .e {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+    height: 15vh;
+    margin: 5px;
+  }
+
+  .f {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+    height: 15vh;
+    margin: 5px;
+  }
+
+  .g {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+    height: 15vh;
+    margin: 5px;
+  }
+
+  .h {
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 42vh;
+    margin: 5px;
+  }
+
 }
+
+@media (min-width: 1000px) {
+
+  body {
+    background: peachpuff;
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .a {
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 30vh;
+    margin: 5px;
+  }
+
+  .bcdefg {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw;
+    height: 42vh;
+  }
+
+  .b {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 25vw;
+    height: 31vh;
+    margin: 5px;
+  }
+
+  .c {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 25vw;
+    height: 31vh;
+    margin: 5px;
+  }
+
+  .d {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 25vw;
+    height: 31vh;
+    margin: 5px;
+  }
+
+  .e {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 25vw;
+    height: 32vh;
+    margin: 5px;
+  }
+
+  .f {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 25vw;
+    height: 32vh;
+    margin: 5px;
+  }
+
+  .g {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 25vw;
+    height: 32vh;
+    margin: 5px;
+  }
+
+  .h {
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    width: 18vw;
+    height: 65vh;
+    margin: 5px;
+  }
+
+}
+
+
+
+
+
